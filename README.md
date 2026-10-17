@@ -57,6 +57,12 @@ This project covers data preparation, data modeling, DAX calculations, and inter
 
 This repository is intended for educational and portfolio purposes. Source datasets are included only where redistribution is permitted.
 
+
+## 📊 Dashboard Preview
+
+![E-commerce Sales Analysis Dashboard](Screenshots/dashboard_overview.png)
+
+
 ## Author
 
 Darshan Achar
