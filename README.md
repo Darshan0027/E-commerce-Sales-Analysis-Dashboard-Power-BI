@@ -45,8 +45,7 @@ This project covers data preparation, data modeling, DAX calculations, and inter
 
 - `Dashboard/` — Power BI report file
 - `screenshots/` — dashboard screenshots
-- `datasets and materials/` — source datasets and supporting files
-- `documentation/` — technical documentation
+- `datasets/` — source datasets and supporting files
 
 ## How to Use
 
