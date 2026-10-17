@@ -53,15 +53,14 @@ This project covers data preparation, data modeling, DAX calculations, and inter
 2. Open the file in Power BI Desktop.
 3. Review the report pages and interact with the available filters.
 
-## Data Disclaimer
-
-This repository is intended for educational and portfolio purposes. Source datasets are included only where redistribution is permitted.
-
 
 ## 📊 Dashboard Preview
 
 ![E-commerce Sales Analysis Dashboard](Screenshots/dashboard_overview.png)
 
+## Data Disclaimer
+
+This repository is intended for educational and portfolio purposes. Source datasets are included only where redistribution is permitted.
 
 ## Author
 
